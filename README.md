@@ -52,6 +52,8 @@
       </a>
       <span>Insomnia</span>
     </td>
+    </tr>
+    <tr>
     <td align="center" width="96">
       <a href="https://www.postman.com/">
         <img src=".github/img/postman.png" width="48" height="48" alt="HTML"/>
