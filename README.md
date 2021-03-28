@@ -389,6 +389,6 @@ Certificados obtidos em cursos online: [Clique aqui](https://github.com/ErickG12
     </tr>
 </table>
 
-<h2>Estatísticas</h2>
+<h2>Estatísticas:</h2>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ErickG123&show_icons=true&count_private=true)](https://github.com/ErickG123/github-readme-stats)
