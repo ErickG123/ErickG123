@@ -1,7 +1,36 @@
-### Olá! Meu nome é Erick, tenho 18 anos e sou um estudande de Engenharia da Computação.
+<h2 align="center">
+Olá! Meu nome é Erick, tenho 18 anos e sou um estudande de Engenharia da Computação.
+</h2>
 
+<br>
 
-## Linguagens e ferramentas
+<h2>Sobre mim</h2>
+<ul>
+    <li>Cursando Engenharia da Computação | Gran Tietê</li>
+    <li>Formado no Curso Técnico de Desenvolvimente de Sistemas | ETEC</li>
+    <li>Programador Full Stack | Gosto um pouco de tudo</li>
+    <li>Hobbies: Animes, séries, livros, músicas e cursos online</li>
+</ul>
+
+<br>
+
+<h2>Cursos feitos</h2>
+
+Certificados obtidos em cursos online: [Clique aqui](https://github.com/ErickG123/ErickG123/tree/master/.github/certificates)
+
+<br>
+
+<h2>Mini Projetos</h2>
+
+- API de busca Pokemon: [Clique aqui](https://erickg123.github.io/apipokemon.github.io/)
+    - Obs.: Ainda não está 100%, a aplicação tem um bug que na primeira busca que você faz, você precisa clicar duas vezes, ela não busca de primeira.
+- TCC feito com Arduino: [Clique aqui](https://github.com/ErickG123/projetoTCC)
+    - Obs.: Para mais informações sobre o desenvolvimento do TCC, leia a README ou a documentação do mesmo.
+
+<br>
+
+<h2>Linguagens e ferramentas</h2>
+
 <table>
     <!-- Linha 1 -->
     <tr>
@@ -105,7 +134,23 @@
         <span>Visual Studio</span>
         </td>
     </tr>
+    <!-- Linha 3 -->
+    <tr>
+        <td align="center" width="96">
+        <a href="https://www.npmjs.com/">
+            <img src=".github/img/npm.png" width="48" height="48" alt="NPM"/>
+        </a>
+        <span>NPM</span>
+        </td>
+        <td align="center" width="96">
+        <a href="https://yarnpkg.com/">
+            <img src=".github/img/yarn.png" width="48" height="48" alt="Yarn"/>
+        </a>
+        <span>Yarn</span>
+        </td>
+    </tr>
 </table>
+
 
 
 
