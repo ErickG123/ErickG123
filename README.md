@@ -125,13 +125,13 @@ Certificados obtidos em cursos online: [Clique aqui](https://github.com/ErickG12
         <a href="https://code.visualstudio.com/">
             <img src=".github/img/vs-code.png" width="48" height="48" alt="VSCode"/>
         </a>
-        <span>Visual Studio Code</span>
+        <span>VSCode</span>
         </td>
         <td align="center" width="96">
         <a href="https://visualstudio.microsoft.com/pt-br/">
             <img src=".github/img/visual-studio.png" width="48" height="48" alt="Visual Studio"/>
         </a>
-        <span>Visual Studio</span>
+        <span>VS 2020</span>
         </td>
     </tr>
     <!-- Linha 3 -->
