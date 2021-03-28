@@ -2,8 +2,6 @@
 Olá! Meu nome é Erick, tenho 18 anos e sou um estudande de Engenharia da Computação.
 </h2>
 
-<br>
-
 <h2>Sobre mim</h2>
 <ul>
     <li>Cursando Engenharia da Computação | Gran Tietê</li>
@@ -12,13 +10,9 @@ Olá! Meu nome é Erick, tenho 18 anos e sou um estudande de Engenharia da Compu
     <li>Hobbies: Animes, séries, livros, músicas e cursos online</li>
 </ul>
 
-<br>
-
 <h2>Cursos feitos</h2>
 
 Certificados obtidos em cursos online: [Clique aqui](https://github.com/ErickG123/ErickG123/tree/master/.github/certificates)
-
-<br>
 
 <h2>Mini Projetos</h2>
 
@@ -26,8 +20,6 @@ Certificados obtidos em cursos online: [Clique aqui](https://github.com/ErickG12
     - Obs.: Ainda não está 100%, a aplicação tem um bug que na primeira busca que você faz, você precisa clicar duas vezes, ela não busca de primeira.
 - TCC feito com Arduino: [Clique aqui](https://github.com/ErickG123/projetoTCC)
     - Obs.: Para mais informações sobre o desenvolvimento do TCC, leia a README ou a documentação do mesmo.
-
-<br>
 
 <h2>Linguagens e ferramentas</h2>
 
@@ -151,44 +143,6 @@ Certificados obtidos em cursos online: [Clique aqui](https://github.com/ErickG12
     </tr>
 </table>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<h2>Estatísticas</h2>
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ErickG123&show_icons=true&count_private=true)](https://github.com/ErickG123/github-readme-stats)
