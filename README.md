@@ -58,7 +58,7 @@
     <tr>
         <td align="center" width="96">
         <a href="https://ionicframework.com/">
-            <img src=".github/img/mysql.png" width="48" height="48" alt="Ionic"/>
+            <img src=".github/img/ionic.png" width="48" height="48" alt="Ionic"/>
         </a>
         <span>Ionic</span>
         </td>
