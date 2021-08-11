@@ -174,7 +174,7 @@ Certificados obtidos em cursos online: [Clique aqui](https://github.com/ErickG12
             <a href="https://en.wikipedia.org/wiki/Assembly_language">
                 <img src=".github/img/visual-studio.png" width="48" height="48" alt="VS"/>
             </a>
-            <span>VS</span>
+            <span>Visual Studio</span>
         </td>
         <td align="center" width="96">
             <a href="https://en.wikipedia.org/wiki/Assembly_language">
