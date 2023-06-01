@@ -1,10 +1,10 @@
 <h2 align="center">
-Olá! Meu nome é Erick, tenho 18 anos e sou um estudande de Engenharia da Computação.
+Olá! Meu nome é Erick, tenho 20 anos e sou um estudande de Engenharia da Computação.
 </h2>
 
 <h2>Sobre mim:</h2>
 <ul>
-    <li>Cursando Engenharia da Computação 4/10 | GranTietê</li>
+    <li>Cursando Engenharia da Computação 5/10 | GranTietê</li>
     <li>Formado no Curso Técnico de Desenvolvimente de Sistemas | ETEC</li>
     <li>Programador Full Stack | Gosto um pouco de tudo</li>
     <li>Hobbies: Animes, séries, livros, músicas e cursos online</li>
