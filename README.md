@@ -4,7 +4,7 @@ Olá! Meu nome é Erick, tenho 20 anos e sou um estudande de Engenharia da Compu
 
 <h2>Sobre mim:</h2>
 <ul>
-    <li>Cursando Engenharia da Computação 5/10 | GranTietê</li>
+    <li>Cursando Engenharia da Computação 6/10 | GranTietê</li>
     <li>Formado no Curso Técnico de Desenvolvimente de Sistemas | ETEC</li>
     <li>Programador Full Stack | Gosto um pouco de tudo</li>
     <li>Hobbies: Animes, séries, livros, músicas e cursos online</li>
@@ -14,10 +14,7 @@ Olá! Meu nome é Erick, tenho 20 anos e sou um estudande de Engenharia da Compu
 
 Certificados obtidos em cursos online: [Clique aqui](https://github.com/ErickG123/ErickG123/tree/master/.github/certificates)
 
-<h2>Mini Projetos:</h2>
-
-- API de busca Pokemon: [Clique aqui](https://erickg123.github.io/apipokemon.github.io/)
-    - Obs.: Ainda não está 100%, a aplicação tem um bug que na primeira busca que você faz, você precisa clicar duas vezes, ela não busca de primeira.
+<h2>TCC do Curso Técnico:</h2>
 - TCC feito com Arduino: [Clique aqui](https://github.com/ErickG123/projetoTCC)
     - Obs.: Para mais informações sobre o desenvolvimento do TCC, leia a README ou a documentação do mesmo.
 
