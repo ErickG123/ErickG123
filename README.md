@@ -7,7 +7,7 @@ Olá! Meu nome é Erick, tenho 21 anos e sou um estudande de Engenharia da Compu
     <li>Cursando Engenharia da Computação 7/10 | GranTietê</li>
     <li>Formado no Curso Técnico de Desenvolvimente de Sistemas | ETEC</li>
     <li>Programador Full Stack | Gosto um pouco de tudo</li>
-    <li>Hobbies: Animes, séries, livros, músicas e cursos online</li>
+    <li>Hobbies: Animes, séries, livros e música</li>
 </ul>
 
 <h2>Cursos feitos:</h2>
