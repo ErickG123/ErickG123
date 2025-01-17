@@ -4,7 +4,7 @@ Olá! Meu nome é Erick, tenho 21 anos e sou um estudande de Engenharia da Compu
 
 <h2>Sobre mim:</h2>
 <ul>
-    <li>Cursando Engenharia da Computação 8/10 | GranTietê</li>
+    <li>Cursando Engenharia da Computação 9/10 | GranTietê</li>
     <li>Formado no Curso Técnico de Desenvolvimente de Sistemas | ETEC</li>
     <li>Programador Full Stack | Gosto um pouco de tudo</li>
     <li>Hobbies: Animes, séries, livros e música</li>
@@ -132,13 +132,13 @@ Certificados obtidos em cursos online: [Clique aqui](https://github.com/ErickG12
             <span>Ruby on Rails</span>
         </td>
         <td align="center" width="96">
-            <a href="https://www.mysql.com/">
+            <a href="https://getbootstrap.com/">
                 <img src=".github/img/bootstrap.png" width="48" height="48" alt="Bootstrap"/>
             </a>
             <span>Bootstrap</span>
         </td>
         <td align="center" width="96">
-            <a href="https://www.mysql.com/">
+            <a href="https://ionicframework.com/">
                 <img src=".github/img/ionic.png" width="48" height="48" alt="Ionic"/>
             </a>
             <span>Ionic</span>
