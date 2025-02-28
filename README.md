@@ -1,5 +1,5 @@
 <h2 align="center">
-Olá! Meu nome é Erick, tenho 21 anos e sou um estudande de Engenharia da Computação.
+Olá! Meu nome é Erick, tenho 22 anos e sou um estudande de Engenharia da Computação.
 </h2>
 
 <h2>Sobre mim:</h2>
