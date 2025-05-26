@@ -38,7 +38,7 @@ Gosto de aprender coisas novas o tempo todo, seja sobre linguagens, ferramentas 
 ---
 
 ### 🧠 Curto muito:
-- 📺 **Animes**, **filmes**, **séries** e **jogos** (nerd sim, com orgulho!)
+- 📺 **Animes**, **filmes**, **séries** e **jogos**
 - 📚 Aprender novas linguagens (de código e de países 🌍)
 - 🔧 Montar/desmontar PCs, mexer com circuitos e robôs
 
