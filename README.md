@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Erick 👋
-🎓 Estou no último ano da faculdade de **Engenharia da Computação**, apaixonado por tudo que envolve tecnologia!  
+🎓 Formado em **Engenharia da Computação**, apaixonado por tudo que envolve tecnologia!  
 💻 Atuo como **Desenvolvedor FullStack**, mas também curto explorar o lado do **hardware**, como manutenção e Arduino.
 
-Gosto de aprender coisas novas o tempo todo, seja sobre linguagens, ferramentas ou até **idiomas** — atualmente estou estudando **Inglês** e **Japonês**! 🇺🇸🇯🇵
+Gosto de aprender coisas novas o tempo todo, seja sobre linguagens, ferramentas ou até **idiomas** - atualmente estou estudando **Inglês** e **Japonês**! 🇺🇸🇯🇵
 
 ---
 
