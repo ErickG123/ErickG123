@@ -1,394 +1,57 @@
-<h2 align="center">
-Olá! Meu nome é Erick, tenho 20 anos e sou um estudande de Engenharia da Computação.
-</h2>
+### Olá! Eu sou o Erick 👋
+🎓 Formado em **Engenharia da Computação**, apaixonado por tudo que envolve tecnologia!  
+💻 Atuo como **Desenvolvedor FullStack**, mas também curto explorar o lado do **hardware**, como manutenção e Arduino.
 
-<h2>Sobre mim:</h2>
-<ul>
-    <li>Cursando Engenharia da Computação 5/10 | GranTietê</li>
-    <li>Formado no Curso Técnico de Desenvolvimente de Sistemas | ETEC</li>
-    <li>Programador Full Stack | Gosto um pouco de tudo</li>
-    <li>Hobbies: Animes, séries, livros, músicas e cursos online</li>
-</ul>
+Gosto de aprender coisas novas o tempo todo, seja sobre linguagens, ferramentas ou até **idiomas** - atualmente estou estudando **Inglês** e **Japonês**! 🇺🇸🇯🇵
 
-<h2>Cursos feitos:</h2>
+---
 
-Certificados obtidos em cursos online: [Clique aqui](https://github.com/ErickG123/ErickG123/tree/master/.github/certificates)
+### 💻 Tecnologias que uso no dia a dia:
+- **Linguagens & Frameworks:**  
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white) 
+  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+  ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
+  ![Fastify](https://img.shields.io/badge/-Fastify-202020?style=flat&logo=fastify&logoColor=white)
+  ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+  ![React Native](https://img.shields.io/badge/-React%20Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+  ![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
-<h2>Mini Projetos:</h2>
+- **Frontend & UI:**  
+  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+  ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+  ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat&logo=electron&logoColor=white)
+  ![Windows Forms](https://img.shields.io/badge/-Windows%20Forms-0078D7?style=flat&logo=windows&logoColor=white)
 
-- API de busca Pokemon: [Clique aqui](https://erickg123.github.io/apipokemon.github.io/)
-    - Obs.: Ainda não está 100%, a aplicação tem um bug que na primeira busca que você faz, você precisa clicar duas vezes, ela não busca de primeira.
-- TCC feito com Arduino: [Clique aqui](https://github.com/ErickG123/projetoTCC)
-    - Obs.: Para mais informações sobre o desenvolvimento do TCC, leia a README ou a documentação do mesmo.
+- **Banco de Dados & Infra:**  
+  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-<h1>Conhecimentos:</h1>
+- **Hardware & DIY:**  
+  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+  ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=flat&logo=raspberrypi&logoColor=white)
+  ![ESP](https://img.shields.io/badge/-ESP32/8266-323232?style=flat&logo=espressif&logoColor=white)
 
-<h2>Front-end:</h2>
-<table>
-    <tr>
-        <td align="center" width="96">
-            <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-                <img src=".github/img/html5.png" width="48" height="48" alt="HTML"/>
-            </a>
-            <span>HTML</span>
-        </td>
-        <td align="center" width="96">
-            <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS">
-                <img src=".github/img/css3.png" width="48" height="48" alt="CSS"/>
-            </a>
-            <span>CSS</span>
-        </td>
-        <td align="center" width="96">
-            <a href="https://sass-lang.com/">
-                <img src=".github/img/sass.png" width="48" height="48" alt="SASS"/>
-            </a>
-            <span>SASS</span>
-        </td>
-        <td align="center" width="96">
-            <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript">
-                <img src=".github/img/javascript.png" width="48" height="48" alt="JavaScript"/>
-            </a>
-            <span>JavaScript</span>
-        </td>
-        <td align="center" width="96">
-            <a href="hhttps://jquery.com/">
-                <img src=".github/img/jquery.png" width="48" height="48" alt="jQuery"/>
-            </a>
-            <span>jQuery</span>
-        </td>
-        <td align="center" width="96">
-            <a href="https://nodejs.org/en/">
-                <img src=".github/img/nodejs.png" width="48" height="48" alt="Node.js "/>
-            </a>
-            <span>Node.js</span>
-        </td>
-    </tr>
-</table>
+---
 
-<h2>Back-end:</h2>
-<table>
-    <tr>
-        <td align="center" width="96">
-            <a href="https://docs.microsoft.com/pt-br/dotnet/csharp/">
-                <img src=".github/img/csharp.png" width="48" height="48" alt="C#"/>
-            </a>
-            <span>C#</span>
-        </td>
-        <td align="center" width="96">
-            <a href="https://www.ruby-lang.org/pt/">
-                <img src=".github/img/ruby.png" width="48" height="48" alt="Ruby"/>
-            </a>
-            <span>Ruby</span>
-        </td>
-        <td align="center" width="96">
-            <a href="https://nodejs.org/en/">
-                <img src=".github/img/nodejs.png" width="48" height="48" alt="Node.js"/>
-            </a>
-            <span>Node.js</span>
-        </td>
-    </tr>
-</table>
+### 🧠 Curto muito:
+- 📺 **Animes**, **filmes**, **séries** e **jogos**
+- 📚 Aprender novas linguagens (de código e de países 🌍)
+- 🔧 Montar/desmontar PCs, mexer com circuitos e robôs
 
-<h2>Linguagem de maquina:</h2>
-<table>
-    <tr>
-        <td align="center" width="96">
-            <a href="https://en.wikipedia.org/wiki/Assembly_language">
-                <img src=".github/img/asm.png" width="48" height="48" alt="Assembly"/>
-            </a>
-            <span>Assembly</span>
-        </td>
-    </tr>
-</table>
+---
 
-<h2>Banco de dados:</h2>
-<table>
-    <tr>
-        <td align="center" width="96">
-            <a href="https://www.mysql.com/">
-                <img src=".github/img/mysql.png" width="48" height="48" alt="MySQL"/>
-            </a>
-            <span>MySQL</span>
-        </td>
-        <td align="center" width="96">
-            <a href="https://www.microsoft.com/pt-br/sql-server/sql-server-downloads">
-                <img src=".github/img/sqlserver.png" width="48" height="48" alt="SQL Server"/>
-            </a>
-            <span>SQL Server</span>
-        </td>
-        <td align="center" width="96">
-            <a href="https://www.postgresql.org/">
-                <img src=".github/img/postgresql.png" width="48" height="48" alt="PostgreSQL"/>
-            </a>
-            <span>PostgreSQL</span>
-        </td>
-    </tr>
-</table>
+### 📈 Estatísticas do GitHub:
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErickG123&show_icons=true&theme=radical&hide_rank=false&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickG123&layout=compact&theme=radical"/>
+</div>
 
-<h2>Frameworks:</h2>
-<table>
-    <tr>
-        <td align="center" width="96">
-            <a href="https://rubyonrails.org/">
-                <img src=".github/img/rails.jpg" width="48" height="48" alt="Ruby on Rails"/>
-            </a>
-            <span>Ruby on Rails</span>
-        </td>
-        <td align="center" width="96">
-            <a href="https://www.mysql.com/">
-                <img src=".github/img/bootstrap.png" width="48" height="48" alt="Bootstrap"/>
-            </a>
-            <span>Bootstrap</span>
-        </td>
-        <td align="center" width="96">
-            <a href="https://www.mysql.com/">
-                <img src=".github/img/ionic.png" width="48" height="48" alt="Ionic"/>
-            </a>
-            <span>Ionic</span>
-        </td>
-        <td align="center" width="96">
-            <a href="https://dotnet.microsoft.com/apps/aspnet">
-                <img src=".github/img/aspnet.png" width="48" height="48" alt="ASP.NET"/>
-            </a>
-            <span>ASP.NET</span>
-        </td>
-        <td align="center" width="96">
-            <a href="https://tailwindcss.com/">
-                <img src=".github/img/tail.png" width="48" height="48" alt="Tailwind CSS"/>
-            </a>
-            <span>Tailwind CSS</span>
-        </td>
-        <td align="center" width="96">
-            <a href="https://materializecss.com/">
-                <img src=".github/img/mate.png" width="48" height="48" alt="Materialize CSS"/>
-            </a>
-            <span>Materialize CSS</span>
-        </td>
-    </tr>
-</table>
+---
 
-<h2>IDE's:</h2>
-<table>
-    <tr>
-        <td align="center" width="96">
-            <a href="https://en.wikipedia.org/wiki/Assembly_language">
-                <img src=".github/img/visual-studio.png" width="48" height="48" alt="VS"/>
-            </a>
-            <span>Visual Studio</span>
-        </td>
-        <td align="center" width="96">
-            <a href="https://en.wikipedia.org/wiki/Assembly_language">
-                <img src=".github/img/vs-code.png" width="48" height="48" alt="VSCode"/>
-            </a>
-            <span>VSCode</span>
-        </td>
-        <td align="center" width="96">
-            <a href="https://en.wikipedia.org/wiki/Assembly_language">
-                <img src=".github/img/pycharm.png" width="48" height="48" alt="PyCharm"/>
-            </a>
-            <span>PyCharm</span>
-        </td>
-        <td align="center" width="96">
-            <a href="https://en.wikipedia.org/wiki/Assembly_language">
-                <img src=".github/img/delphi.png" width="48" height="48" alt="Delphi"/>
-            </a>
-            <span>Delphi</span>
-        </td>
-    </tr>
-</table>
-
-<h2>Versionamento:</h2>
-<table>
-    <tr>
-        <td align="center" width="96">
-            <a href="https://git-scm.com/">
-                <img src=".github/img/git.png" width="48" height="48" alt="Git"/>
-            </a>
-            <span>Git</span>
-        </td>
-        <td align="center" width="96">
-            <a href="https://github.com/">
-                <img src=".github/img/github.png" width="48" height="48" alt="GitHub"/>
-            </a>
-            <span>GitHub</span>
-        </td>
-    </tr>
-</table>
-
-<h2>Gerenciadores de pacote:</h2>
-<table>
-    <tr>
-        <td align="center" width="96">
-            <a href="https://www.npmjs.com/">
-                <img src=".github/img/npm.png" width="48" height="48" alt="NPM"/>
-            </a>
-            <span>NPM</span>
-        </td>
-        <td align="center" width="96">
-            <a href="https://yarnpkg.com/">
-                <img src=".github/img/yarn.png" width="48" height="48" alt="Yarn"/>
-            </a>
-            <span>Yarn</span>
-        </td>
-    </tr>
-</table>
-
-<h2>Outras ferramentas:</h2>
-<table>
-    <tr>
-        <td align="center" width="96">
-            <a href="https://www.notion.so/">
-                <img src=".github/img/notion.jpg" width="48" height="48" alt="Notion"/>
-            </a>
-            <span>Notion</span>
-        </td>
-        <td align="center" width="96">
-            <a href="https://www.postman.com/">
-                <img src=".github/img/postman.png" width="48" height="48" alt="Postman"/>
-            </a>
-            <span>Postman</span>
-        </td>
-        <td align="center" width="96">
-            <a href="https://insomnia.rest/download">
-                <img src=".github/img/insomnia.jpg" width="48" height="48" alt="Insomnia"/>
-            </a>
-            <span>Insomnia</span>
-        </td>
-        <td align="center" width="96">
-            <a href="https://www.electronjs.org/apps/postbird">
-                <img src=".github/img/postbird.png" width="48" height="48" alt="Postbird"/>
-            </a>
-            <span>Postbird</span>
-        </td>
-    </tr>
-</table>
-
-<h2>Ferramentas da Adobe:</h2>
-<table>
-    <tr>
-        <td align="center" width="96">
-            <a href="https://www.adobe.com/br/products/photoshop.html">
-                <img src=".github/img/photoshop.png" width="48" height="48" alt="Adobe Photoshop"/>
-            </a>
-            <span>Adobe Photoshop</span>
-        </td>
-        <td align="center" width="96">
-            <a href="https://www.adobe.com/br/products/xd.html">
-                <img src=".github/img/xd.png" width="48" height="48" alt="Adobe XD"/>
-            </a>
-            <span>Adobe XD</span>
-        </td>
-    </tr>
-</table>
-
-<h2>Ferramentas da Microsoft:</h2>
-<table>
-    <tr>
-        <td align="center" width="96">
-            <a href="https://www.microsoft.com/pt-br/microsoft-365/word">
-                <img src=".github/img/word.png" width="48" height="48" alt="Microsoft Word"/>
-            </a>
-            <span>Microsoft Word</span>
-        </td>
-        <td align="center" width="96">
-            <a href="https://www.microsoft.com/pt-br/microsoft-365/excel">
-                <img src=".github/img/excel.png" width="48" height="48" alt="Microsoft Excel"/>
-            </a>
-            <span>Microsoft Excel</span>
-        </td>
-        <td align="center" width="96">
-            <a href="https://www.microsoft.com/pt-br/microsoft-365/powerpoint">
-                <img src=".github/img/power.png" width="48" height="48" alt="Microsoft PowerPoint"/>
-            </a>
-            <span>Microsoft PowerPoint</span>
-        </td>
-        <td align="center" width="96">
-            <a href="https://www.microsoft.com/pt-br/microsoft-365/visio/flowchart-software">
-                <img src=".github/img/visio.png" width="48" height="48" alt="Microsoft Visio"/>
-            </a>
-            <span>Microsoft Visio</span>
-        </td>
-        <td align="center" width="96">
-            <a href="https://www.microsoft.com/pt-br/microsoft-365/onedrive/online-cloud-storage">
-                <img src=".github/img/onedrive.png" width="48" height="48" alt="Microsoft OneDrive"/>
-            </a>
-            <span>Microsoft OneDrive</span>
-        </td>
-    </tr>
-</table>
-
-<h2>Comunicação:</h2>
-<table>
-    <tr>
-        <td align="center" width="96">
-            <a href="https://slack.com/intl/pt-br/">
-                <img src=".github/img/slack.png" width="48" height="48" alt="Slack"/>
-            </a>
-            <span>Slack</span>
-        </td>
-        <td align="center" width="96">
-            <a href="https://meet.google.com/">
-                <img src=".github/img/meet.png" width="48" height="48" alt="Google Meet"/>
-            </a>
-            <span>Google Meet</span>
-        </td>
-        <td align="center" width="96">
-            <a href="https://zoom.us/pt-pt/meetings.html">
-                <img src=".github/img/zoom.jpg" width="48" height="48" alt="Zoom"/>
-            </a>
-            <span>Zoom</span>
-        </td>
-        <td align="center" width="96">
-            <a href="https://www.skype.com/pt-br/">
-                <img src=".github/img/skype.png" width="48" height="48" alt="Skype"/>
-            </a>
-            <span>Skype</span>
-        </td>
-    </tr>
-</table>
-
-<h2>Sistemas operacionais:</h2>
-<table>
-    <tr>
-        <td align="center" width="96">
-            <a href="https://www.microsoft.com/pt-br/windows/">
-                <img src=".github/img/windows.png" width="48" height="48" alt="Windows"/>
-            </a>
-            <span>Windows</span>
-        </td>
-        <td align="center" width="96">
-            <a href="https://pt.wikipedia.org/wiki/Linux">
-                <img src=".github/img/linux.png" width="48" height="48" alt="Linux"/>
-            </a>
-            <span>Linux</span>
-        </td>
-    </tr>
-</table>
-
-<h2>Sistemas embarcados:</h2>
-<table>
-    <tr>
-        <td align="center" width="96">
-            <a href="https://www.arduino.cc/">
-                <img src=".github/img/arduino.png" width="48" height="48" alt="Arduino"/>
-            </a>
-            <span>Arduino</span>
-        </td>
-        <td align="center" width="96">
-            <a href="https://docs.microsoft.com/pt-br/cpp/cpp/?view=msvc-160">
-                <img src=".github/img/c++.png" width="48" height="48" alt="C++"/>
-            </a>
-            <span>C++</span>
-        </td>
-        <td align="center" width="96">
-            <a href="https://www.python.org/">
-                <img src=".github/img/python.png" width="48" height="48" alt="Python"/>
-            </a>
-            <span>Python</span>
-        </td>
-    </tr>
-</table>
-
-<h2>Estatísticas:</h2>
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ErickG123&show_icons=true&count_private=true)](https://github.com/ErickG123/github-readme-stats)
+### 📲 Vamos nos conectar?
+- 💼 [LinkedIn](https://www.linkedin.com/in/erickgdev/)
+- 📸 [Instagram](http://instagram.com/erickgabrielalves0)
